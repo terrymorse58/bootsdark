@@ -12,20 +12,20 @@ It works in any browser that respects the standard media query:
 ```css
 @media (prefers-color-scheme: dark) {}
 ```
-Earliest browser versions that support `prefers-color-scheme`:
+Browsers that support `prefers-color-scheme`:
 
 Browser         | Version
 --------------- | -------
 IE              | no
-Edge            | 79
-Firefox         | 67
-Chrome          | 76
-Safari          | 12.1
-Opera           | 62
-iOS Safari      | 13.1
-Android Browser | 80
-Chrome Android  | 80
-Firefox Android | 68
+Edge            | 79+
+Firefox         | 67+
+Chrome          | 76+
+Safari          | 12.1+
+Opera           | 62+
+iOS Safari      | 13.1+
+Android Browser | 80+
+Chrome Android  | 80+
+Firefox Android | 68+
 
 ## Install
 ```shell script
