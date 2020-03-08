@@ -4,7 +4,7 @@ A responsive Bootstrap theme that respects client computer's dark or light mode 
 ---
 ![bootsdark demo](https://terrymorse.com/public/bootsdark-demo.gif "Bootsdark
  demo")
-*bootsdark* detects the user preference for dark or light mode, responding to
+**bootsdark** detects the user preference for dark or light mode, responding to
  changes.
  
 It works in any browser that respects the standard media query:
@@ -28,6 +28,8 @@ Chrome Android  | 80
 Firefox Android | 68
 
 ## Usage
+Link the `bootsdark.css` or `bootsdark.min.css` file in an HTML page after
+ linking `bootstrap.css`:
 ```html
 <head>
     <link rel="stylesheet" href="bootstrap.css">
