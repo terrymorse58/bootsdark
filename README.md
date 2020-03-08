@@ -27,6 +27,11 @@ Android Browser | 80
 Chrome Android  | 80
 Firefox Android | 68
 
+## Install
+```shell script
+$ npm install bootsdark
+```
+
 ## Usage
 Link the `bootsdark.css` or `bootsdark.min.css` file in an HTML page after
  linking `bootstrap.css`:
