@@ -1,6 +1,6 @@
 # bootsdark
 
-A responsive Bootstrap theme that respects client computer's dark or light mode preference
+A responsive Bootstrap theme that respects a computer's dark/light mode setting
 ---
 ![bootsdark demo](https://terrymorse.com/public/bootsdark-demo.gif "Bootsdark
  demo")
