@@ -43,7 +43,7 @@ linking *bootstrap.css*:
 ```html
 <head>
     <link rel="stylesheet" href="bootstrap.css">
-      <!- ... -->
+      <!----->
     <link rel="stylesheet" href="bootsdark.css">
 </head>
 ```
