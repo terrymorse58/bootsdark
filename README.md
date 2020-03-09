@@ -7,7 +7,7 @@ A responsive Bootstrap theme that respects a computer's dark/light mode setting
 **bootsdark** detects the user preference for dark or light mode, responding to
  changes.
  
-It works in any browser that respects the standard media query:
+**bootsdark** works in any browser that respects the standard media query:
  
 ```css
 @media (prefers-color-scheme: dark) {}
@@ -26,6 +26,10 @@ iOS Safari      | 13.1+
 Android Browser | 80+
 Chrome Android  | 80+
 Firefox Android | 68+
+
+## Demo
+
+View a live **bootsdark** demo at [terrymorse.com](https://terrymorse.com/coding/darkmode/index.html).
 
 ## Install
 ```shell script
