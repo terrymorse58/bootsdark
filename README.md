@@ -1,18 +1,19 @@
 # bootsdark
 
-A responsive Bootstrap theme that respects a computer's dark/light mode setting
+A Bootstrap theme that responds to a computer's dark/light mode setting
 ---
 ![bootsdark demo](https://terrymorse.com/public/bootsdark-demo.gif "Bootsdark
  demo")
-**bootsdark** detects the user preference for dark or light mode, responding to
- changes.
+**bootsdark** is a pure Bootstrap CSS (no JavaScript) file that detects a
+ computer's dark or light mode setting, responding instantly to changes.
  
-**bootsdark** works in any browser that respects the standard media query:
+**bootsdark** works in any browser that supports the standard media query for
+dark mode:
  
 ```css
-@media (prefers-color-scheme: dark) {}
+  @media (prefers-color-scheme: dark) {}
 ```
-Browsers that support `prefers-color-scheme`:
+Browsers that support dark mode `@media` query:
 
 Browser         | Version
 --------------- | -------
@@ -37,11 +38,12 @@ $ npm install bootsdark
 ```
 
 ## Usage
-Link the `bootsdark.css` or `bootsdark.min.css` file in an HTML page after
- linking `bootstrap.css`:
+Simply link *bootsdark.css* (or *bootsdark.min.css*) in an HTML page after
+linking *bootstrap.css*:
 ```html
 <head>
     <link rel="stylesheet" href="bootstrap.css">
+      <!- ... -->
     <link rel="stylesheet" href="bootsdark.css">
 </head>
 ```
