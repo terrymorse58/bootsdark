@@ -47,6 +47,11 @@ linking *bootstrap.css*:
     <link rel="stylesheet" href="bootsdark.css">
 </head>
 ```
+Or simply link to the CDN:
+```html
+<link rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/terrymorse58/bootsdark/ios-modal.css/dist/bootsdark.min.css">
+```
 
 ## License
 
