@@ -2,8 +2,8 @@
 
 A Bootstrap theme that responds to a computer's dark/light mode setting
 ---
-![bootsdark demo](https://terrymorse.com/public/bootsdark-demo.gif "Bootsdark
- demo")
+![bootsdark demo](docs/bootsdark-buttons.gif)
+
 **bootsdark** is a pure Bootstrap CSS (no JavaScript) file that detects a
  computer's dark or light mode setting, responding instantly to changes.
  
@@ -30,7 +30,7 @@ Firefox Android | 68+
 
 ## Demo
 
-View a live **bootsdark** demo at [terrymorse.com](https://terrymorse.com/coding/darkmode/index.html).
+View a live **bootsdark** demo at [devtools.terrymorse.com](https://devtools.terrymorse.com/bootsdark-demo/index.html).
 
 ## Install
 ```shell script
@@ -50,7 +50,7 @@ linking *bootstrap.css*:
 Or simply link to the CDN:
 ```html
 <link rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/terrymorse58/bootsdark/dist/bootsdark.min.css">
+  href="https://cdn.jsdelivr.net/npm/bootsdark/dist/bootsdark.min.css">
 ```
 
 ## License
