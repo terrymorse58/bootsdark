@@ -1,6 +1,6 @@
 {
   "name": "bootsdark",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "a Bootstrap theme that's responsive to a computer's light/dark preference",
   "main": "test/index.html",
   "directories": {
