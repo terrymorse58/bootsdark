@@ -1689,6 +1689,7 @@
 
   .list-group-item {
     background-color: #32383e;
+    color: #c3c4c5;
     border: 1px solid rgba(0, 0, 0, .6)
   }
 
@@ -2159,11 +2160,11 @@
   }
 
   .text-primary {
-    color: #3a3f44 !important
+    color: #899299 !important
   }
 
   a.text-primary:focus, a.text-primary:hover {
-    color: #17191b !important
+    color: #ABB6BF !important
   }
 
   .text-secondary {
@@ -2171,7 +2172,7 @@
   }
 
   a.text-secondary:focus, a.text-secondary:hover {
-    color: #565b60 !important
+    color: #ABB6BF !important
   }
 
   .text-success {
